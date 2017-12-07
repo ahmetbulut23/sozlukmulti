@@ -1,0 +1,2 @@
+# sozlukmulti
+Sozluk
